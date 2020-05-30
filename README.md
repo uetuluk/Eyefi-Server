@@ -12,6 +12,7 @@ The Multipart-Handling is rewritten by me, SuperMario4848. The datastream gets p
 
 Other References:
 Upload-Protocol of the Eyefi-Card: https://code.google.com/p/sceye-fi/wiki/UploadProtocol
+
 Work of Maximilian Golla, original code for "getCredential()" function: https://github.com/michaelbrandt/node-eyefimobiserver/blob/master/related_work/eyefi-mobi.py
 
 How to use:
