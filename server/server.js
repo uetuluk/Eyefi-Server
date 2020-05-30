@@ -66,6 +66,7 @@ function msg(debugMsg) {
 }
 
 // computes the credentials for authentication, code ported from Python File by Maximilian Golla
+// https://github.com/michaelbrandt/node-eyefimobiserver/blob/master/related_work/eyefi-mobi.py
 function get_credential(string) {
     var beforeMD5 = Buffer.from("");
     for (var i = 0; i < string.length; i += 2) {
