@@ -10,9 +10,8 @@ The "getCredential()" function has been ported from michaelbrandt from Python Fi
 
 The Multipart-Handling is rewritten by me, SuperMario4848. The datastream gets parsed by "formidable"-framework and the received archive is saved under "uploads/archives". After the the "tar" module is used to extract the archives and save them under "uploads/pictures". Each archive is deleted after it has been extracted. The console prints if a picture gets uploaded, if it has been received and when it has been extracted.
 
-Other References:
-Upload-Protocol of the Eyefi-Card: https://code.google.com/p/sceye-fi/wiki/UploadProtocol
-
+Other References:<br>
+Upload-Protocol of the Eyefi-Card: https://code.google.com/p/sceye-fi/wiki/UploadProtocol<br>
 Work of Maximilian Golla, original code for "getCredential()" function: https://github.com/michaelbrandt/node-eyefimobiserver/blob/master/related_work/eyefi-mobi.py
 
 How to use:
