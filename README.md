@@ -1,4 +1,4 @@
-# Eyfi-Server 
+# Eyefi-Server 
 A standalone Node.js server for the EyefiMobiPro Wifi Cards based on the work of michaelbrandt. https://github.com/michaelbrandt/node-eyefimobiserver
 
 About this Repo:
