@@ -1,5 +1,8 @@
 /**
-This project is based on the work of michaelbrandt @Github. Huge parts of the code, all about the xml handling and parsing, have been copied from his git-repo: "https://github.com/michaelbrandt/node-eyefimobiserver" and slightly modified to work properly especial with newer versions of node. The Multipart-Handling is rewritten by me, SuperMario4848. See README for more Details.
+This project is based on the work of michaelbrandt @Github.
+Huge parts of the code, all about the xml handling and parsing, have been copied
+from his git-repo: "https://github.com/michaelbrandt/node-eyefimobiserver" and slightly modified to work properly
+especial with newer versions of node. The Multipart-Handling is rewritten by me, SuperMario4848. See README for more Details.
 */
 
 
